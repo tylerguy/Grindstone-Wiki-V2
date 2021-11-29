@@ -2,7 +2,7 @@
 title: Glossary
 description: 
 published: true
-date: 2021-11-29T16:36:12.475Z
+date: 2021-11-29T16:36:33.279Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-28T23:26:07.353Z
@@ -22,6 +22,8 @@ dateCreated: 2021-11-28T23:26:07.353Z
 -   _Aposematism_ - advertising by an animal to potential predators that it is not worth attacking or eating
 -   _ART_ \- Accelerated Research(er) Track
 -   _Azalt_ - An older civilization that collapsed
+
+[gillie.wav](/gillie.wav)
 
 # B
 
