@@ -2,7 +2,7 @@
 title: The Cheese God incident aka The Grate War
 description: 
 published: true
-date: 2021-11-29T04:10:47.516Z
+date: 2021-11-29T04:11:44.003Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-29T04:04:43.297Z
@@ -28,11 +28,12 @@ A minor argument occurred, wherein Cheese Satan and God argued over Cheese God�
 
 Cheese Satan gained their first (vocal) follower by name of A Very Ninja UwUkulele and named them their pope. A Very Anti-Cheese Pope then joined the argument and decided cheese legally couldn’t have rights due to it being non-sentient and also food. 
 
+
+## Another change in Rules
+
 Rose proclaimed her regret in starting the cheese cult and requested the madness to be stopped.
 
 Her wish had been granted when UMAD Management appeared to inform us there had been an update to the rules. This update was as follows:
-
-## Another change in Rules
 
 “11. Due to continued complaints religious cheese discourse is no longer permitted except for the purpose of explaining it’s origin to curious new applicants. You will be given one warning.”
 
