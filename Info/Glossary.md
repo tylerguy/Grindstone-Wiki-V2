@@ -2,7 +2,7 @@
 title: Glossary
 description: 
 published: true
-date: 2021-12-17T15:10:57.439Z
+date: 2021-12-21T02:58:49.692Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T22:57:42.511Z
@@ -16,6 +16,7 @@ dateCreated: 2021-12-13T22:57:42.511Z
 -   _Aeonization_ - the process by which an opening is created between the plane of interest, the one being cast on, and the aetherial matrix that usually requires an aeonized object or spell book with four point casting.
 -   (School) _Aeonization_ - A school of magic at UMAD, utilized to undo links within programming and safely disperse aether
 -   _Aether_ - the material that fills the region of the universe beyond the terrestrial sphere
+- _Aetherial Exhausting_ - The summation of a lot of aether into a safe place within plane. It causes a distortion in the aetherial matrix and the space is filled by an adjacent plane.
 -   _Aetherial Studies_ - Department at UMAD dedicated to the research and study of movement of aether that exists as the matrix for which all planes exist within. Also study spellcraft and the theory behind it
 -   _(Department) Alchemy_ - Department at UMAD dedicated to alchemical research.
 -   _Alchemy_ -  the medieval forerunner of chemistry, based on the supposed transformation of matter.
@@ -77,6 +78,7 @@ dateCreated: 2021-12-13T22:57:42.511Z
 # L
 
 -   _Lich_ - intelligent undead with an aptitude for the aetherial
+- _Lord Sauce_ - a sweet sauce made from spices and red wine typically but there are several ways to make it. Pauchik’s favorite food!
 
 # M
 
@@ -127,6 +129,7 @@ dateCreated: 2021-12-13T22:57:42.511Z
 # T
 
 -   _Temple_ \- a building devoted to the worship, or regarded as the dwelling place, of a god or gods or other objects of religious reverence.
+- _Terminus_ \- a final point in space or time; an end or extremity.  
 -   _Tethered Object_ - concept; links to a small plane and overlay is forced in space.  This small plane exists between a ring 1 and 0 to create hastened reality for the object but within an overlayed material and micro plane.
 -   _(School) Thermokinetics_ - A school of magic at UMAD specializing in the manipulation of material, the readiness to transfer thermal energy, and the movement of thermal energy
 -   _Tor_ - an inventor and polymath.
@@ -142,6 +145,7 @@ dateCreated: 2021-12-13T22:57:42.511Z
 # W
 
 -   (Aetherial) _Weak Area_ - a thin point between the plane you are on and the aetherial matrix
+- _Weird_ - A wooded area that is anomalous. Could include strange paintings on trees, unusual weather, suspected constant overlays and other odd occurrences.
 
 # X
 
