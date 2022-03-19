@@ -2,7 +2,7 @@
 title: Glossary
 description: 
 published: true
-date: 2021-12-21T02:58:49.692Z
+date: 2022-03-19T12:42:46.538Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T22:57:42.511Z
@@ -13,9 +13,10 @@ dateCreated: 2021-12-13T22:57:42.511Z
 -   _Academia_ - named by Academus son, legend says that’s where Academus is buried. became an Order for the nation, a staple for education due to its location and availability.
 -   _Academus_ \- a farmer, of little importance except the land he left behind after his death
 -   _Academus’ son_ - though his name is lost to time, he named and built Academia.
+-   _Accumulation_ - is when movement by charge forces a large drift of aether creating something of a wave.
 -   _Aeonization_ - the process by which an opening is created between the plane of interest, the one being cast on, and the aetherial matrix that usually requires an aeonized object or spell book with four point casting.
 -   (School) _Aeonization_ - A school of magic at UMAD, utilized to undo links within programming and safely disperse aether
--   _Aether_ - the material that fills the region of the universe beyond the terrestrial sphere
+-   _Aether_ - an amaterial that exists in space 5-dimensionally outside of existing planes and its absence allows for the movement or stretching of the 4th and 5th dimensional space of planes.
 - _Aetherial Exhausting_ - The summation of a lot of aether into a safe place within plane. It causes a distortion in the aetherial matrix and the space is filled by an adjacent plane.
 -   _Aetherial Studies_ - Department at UMAD dedicated to the research and study of movement of aether that exists as the matrix for which all planes exist within. Also study spellcraft and the theory behind it
 -   _(Department) Alchemy_ - Department at UMAD dedicated to alchemical research.
