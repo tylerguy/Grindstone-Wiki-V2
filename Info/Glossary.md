@@ -2,7 +2,7 @@
 title: Glossary
 description: 
 published: true
-date: 2022-03-19T12:42:46.538Z
+date: 2022-04-01T10:41:03.663Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-13T22:57:42.511Z
